@@ -1,2 +1,2 @@
-# aws-machine-learning-specialty
+# AWS Machine Learning Specialty
 AWS Machine Learning Specialty
