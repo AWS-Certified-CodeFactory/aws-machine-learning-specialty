@@ -1,5 +1,6 @@
 # AWS Machine Learning Specialty
 AWS Machine Learning Specialty
+![](images/ai_ml_dl.png)
 
 ## AWS SaaS
 Check out this list before spending precious company resources training your own model. Trust me, they are far superiour.
