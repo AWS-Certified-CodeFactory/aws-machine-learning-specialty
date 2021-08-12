@@ -4,7 +4,8 @@ AWS Machine Learning Specialty
 ## AWS SaaS
 Check out this list before spending precious company resources training your own model. Trust me, they are far superiour.
 
-- Amazon Forecast
+- Amazon Forecast - resouce forecasting from various datasources
+- Amazon Lookout for Metrics - anomaly detection for cloudwatch metrics
 - Amazon Fraud Detector
 - Amazon Personalize
 - Amazon Polly
