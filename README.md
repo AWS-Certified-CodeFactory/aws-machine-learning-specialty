@@ -8,11 +8,12 @@ Check out this list before spending precious company resources training your own
 - Amazon Forecast - resouce forecasting from various datasources
 - Amazon Lookout for Metrics - anomaly detection for cloudwatch metrics
 - Amazon Fraud Detector
-- Amazon Personalize
+- Amazon Personalize - personal recommendation engine
 - Amazon Polly
 - Amazon Transcribe
 - Amazon Kendra - AI-powered search
 - Amazon Comprehend - natural language processing (keyphrase extraction, sentiment analysis, entity recognition)
+- Amazon Rekognition - image entity detection
 - Amazon Textract - OCR, form and table data extraction
 
 ## Development Platform
