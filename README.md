@@ -9,8 +9,8 @@ Check out this list before spending precious company resources training your own
 - Amazon Lookout for Metrics - anomaly detection for cloudwatch metrics
 - Amazon Fraud Detector
 - Amazon Personalize - personal recommendation engine
-- Amazon Polly
-- Amazon Transcribe
+- Amazon Polly - text to speech (with human-like qualities)
+- Amazon Transcribe - speech to text
 - Amazon Kendra - AI-powered search
 - Amazon Comprehend - natural language processing (keyphrase extraction, sentiment analysis, entity recognition)
 - Amazon Rekognition - image entity detection
