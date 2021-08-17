@@ -21,7 +21,7 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
 - Amazon SageMaker
 
 ## Hardware 
-- AWS DeepLens
+- AWS DeepLens (AI-Powered Camera)
 
 ## ML Lifecylce
 ![](images/ml_lifecyle.png)
