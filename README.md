@@ -11,10 +11,12 @@ Check out this list before spending precious company resources training your own
 - Amazon Personalize - personal recommendation engine
 - Amazon Polly - text to speech (with human-like qualities)
 - Amazon Transcribe - speech to text
+- Amazon Translate - language translation
 - Amazon Kendra - AI-powered search
 - Amazon Comprehend - natural language processing (keyphrase extraction, sentiment analysis, entity recognition)
 - Amazon Rekognition - image entity detection
 - Amazon Textract - OCR, form and table data extraction
+- Amazon Lex - chatbot
 
 ## Development Platform
 So, what you are trying to build is a novel idea... i guess we have no choice but to train your own model. At this point, please let AWS help you not to worry about the end-to-end process of testing and deployment.
