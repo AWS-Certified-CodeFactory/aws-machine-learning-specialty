@@ -20,6 +20,9 @@ Check out this list before spending precious company resources training your own
 So, what you are trying to build is a novel idea... i guess we have no choice but to train your own model. At this point, please let AWS help you not to worry about the end-to-end process of testing and deployment.
 - Amazon SageMaker
 
+## Hardware 
+- AWS DeepLens
+
 ## ML Lifecylce
 ![](images/ml_lifecyle.png)
 
