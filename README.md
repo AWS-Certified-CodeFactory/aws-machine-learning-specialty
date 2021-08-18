@@ -24,6 +24,7 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
 
 ## Hardware 
 - AWS DeepLens (AI-Powered Camera)
+- Amazon Elastic Inference - on-demand GPU power
 
 ## ML Lifecylce
 ![](images/ml_lifecyle.png)
