@@ -32,8 +32,10 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
 ## ML Lifecylce
 ![](images/ml_lifecyle.png)
 ![](images/ml_workflow.png)
-- Debugging, Tuning
-  - Regularization - minimize overfitting
+- Addressing Overfitting(high variance) /Underfitting (high bias)
+  - Regularization - minimize overfitting, add cost to to the parameter L1 (absolute value of the sum), L2 (square value of the parameters) 
+  - Feature extraction - create new features from existing features
+- Tuning
   - Hyperparameter Tuning - depends on model architecture, set by the engineer, not part of the estimation
 
 
