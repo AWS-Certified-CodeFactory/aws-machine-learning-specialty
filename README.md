@@ -37,5 +37,8 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
   - Feature extraction - create new features from existing features
 - Tuning
   - Hyperparameter Tuning - depends on model architecture, set by the engineer, not part of the estimation
-
+- Model Evaluation Metrics
+  - Accuracy
+  - Precision
+  - F1
 
