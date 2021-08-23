@@ -26,6 +26,9 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
 - AWS DeepLens (AI-Powered Camera)
 - Amazon Elastic Inference - on-demand GPU power
 
+## Targetting the first ML Project in your Organization
+![](images/when_to_do_ml.png)
+
 ## ML Lifecylce
 ![](images/ml_lifecyle.png)
 ![](images/ml_workflow.png)
@@ -33,5 +36,4 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
   - Regularization - minimize overfitting
   - Hyperparameter Tuning - depends on model architecture, set by the engineer, not part of the estimation
 
-## Targetting the first ML Project in your Organization
-![](images/when_to_do_ml.png)
+
