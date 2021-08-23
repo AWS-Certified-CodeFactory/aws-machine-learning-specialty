@@ -29,6 +29,8 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
 ## ML Lifecylce
 ![](images/ml_lifecyle.png)
 ![](images/ml_workflow.png)
+- Debugging
+  - Regularization - minimize overfitting
 
 ## Targetting the first ML Project in your Organization
 ![](images/when_to_do_ml.png)
