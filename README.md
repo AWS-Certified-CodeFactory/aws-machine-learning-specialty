@@ -40,5 +40,6 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
 - Model Evaluation Metrics
   - Accuracy
   - Precision
+  - Recall
   - F1
 
