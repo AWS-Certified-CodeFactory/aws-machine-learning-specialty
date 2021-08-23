@@ -29,8 +29,9 @@ So, what you are trying to build is a novel idea... i guess we have no choice bu
 ## ML Lifecylce
 ![](images/ml_lifecyle.png)
 ![](images/ml_workflow.png)
-- Debugging
+- Debugging, Tuning
   - Regularization - minimize overfitting
+  - Hyperparameter Tuning - depends on model architecture, set by the engineer, not part of the estimation
 
 ## Targetting the first ML Project in your Organization
 ![](images/when_to_do_ml.png)
