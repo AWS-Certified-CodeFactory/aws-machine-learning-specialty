@@ -20,7 +20,10 @@ Check out this list before spending precious company resources training your own
 
 ## Development Platform
 So, what you are trying to build is a novel idea... i guess we have no choice but to train your own model. At this point, please let AWS help you not to worry about the end-to-end process of testing and deployment.
-- Amazon SageMaker
+- SageMaker Data Studio - Jupyter on steroids
+- SageMaker Feature Store - offline and online storage for curated features
+- SageMaker Data Wrangler - transforms and analyze data
+- SageMaker Clarify - offers explainability and bias detection
 
 ## Hardware 
 - AWS DeepLens (AI-Powered Camera)
